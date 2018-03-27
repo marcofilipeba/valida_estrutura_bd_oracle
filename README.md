@@ -1,0 +1,1 @@
+# valida_estrutura_bd_oracle
